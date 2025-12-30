@@ -10,7 +10,8 @@ Me chamo José Ricardo Teodoro, tenho 18 anos e sou de Mococa-SP. Concluí o ens
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/jrteodoro7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+          <a href="mailto:rodrigogeronimo11@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jrteodoro2008@gmail.com" alt="Gmail"/>
     </a>
 </p>
 
